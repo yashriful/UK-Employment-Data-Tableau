@@ -12,9 +12,17 @@ The dataset used here provides insights into employment trends across various in
 
 📊 Top 10 industries by employment numbers.
 
+![image](https://github.com/user-attachments/assets/2eb2a18c-5cd6-49e8-b960-0904495e6db6)
+
+
 🔍 Top sub-industries within the major sectors.
 
+![image](https://github.com/user-attachments/assets/62cf5bee-5774-4214-9025-4a25bfb50dfd)
+
 🌍 Employment change analysis across different cities.
+
+![image](https://github.com/user-attachments/assets/3cefbb7c-0e11-4802-94aa-dcab719e84b9)
+
 
 🎨 Visualisations
 
