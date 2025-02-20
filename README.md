@@ -1,10 +1,10 @@
-📊 UK Employment Data Visualization 🚀
+📊 UK Employment Data Visualisation 🚀
 
 
 
 📌 Overview
 
-Welcome to my data visualization project on UK Employment Data! 🎉 This project explores employment trends across industries using Tableau to create interactive visual representations. Whether you're an economist, data nerd, or just love cool graphs, this project has something for you! 🧐📈
+Welcome to my data visualisation project on UK Employment Data! 🎉 This project explores employment trends across industries using Tableau to create interactive visual representations. Whether you're an economist, data nerd, or just love cool graphs, this project has something for you! 🧐📈
 
 🗂 Data Source
 
@@ -16,7 +16,7 @@ The dataset used here provides insights into employment trends across various in
 
 🌍 Employment change analysis across different cities.
 
-🎨 Visualizations
+🎨 Visualisations
 
 1️⃣ Top 10 Industries
 
@@ -30,14 +30,12 @@ We zoom into sub-industries to see where the action really happens! 🔎💼
 
 An interactive UK map showcasing employment shifts across major cities. London, how are you doing? 🌆📍
 
-🖼️ Here's a sneak peek at the visualizations:
+🖼️ Here's a sneak peek at the visualisations:
 
 
 🛠️ Tools & Technologies Used
 
-Tableau 📊 for interactive visualizations
-
-Python (Pandas, Matplotlib) 🐍 for data preprocessing
+Tableau 📊 for interactive visualisations
 
 Excel/CSV 📜 for dataset management
 
@@ -45,7 +43,7 @@ Excel/CSV 📜 for dataset management
 
 Clone the repository:
 
-git clone https://github.com/yourusername/uk-employment-data.git
+git clone https://github.com/yashriful/uk-employment-data.git
 
 Open the Tableau workbook and explore the insights!
 
